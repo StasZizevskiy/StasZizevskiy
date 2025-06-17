@@ -1,6 +1,4 @@
-## <h1 align="center">Привет, меня зовут Зизевский Станислав!</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я аналитик данных 🇷🇺</h3>
+## <h1 align="center">Привет, меня зовут Зизевский Станислав!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **StasZizevskiy/StasZizevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
